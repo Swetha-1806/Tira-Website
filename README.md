@@ -4,7 +4,6 @@
 This project is a **frontend clone of the Tira Beauty website**, developed using **HTML5 and CSS3**. It focuses on building a visually appealing user interface with structured layout and modern design techniques.
 
 ## 🚀 Features
-- Responsive **navigation bar** with categories (Makeup, Skincare, Haircare, etc.)
 - **Product listing cards** with images, price, ratings, and discounts
 - **Login/Sign Up page navigation**
 - Integrated **videos and banner sections**
